@@ -4395,7 +4395,7 @@ function $$SETUP_STATE(hydrateRuntimeState) {
       ]],
       ["next", [
         ["virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:9.0.5", {
-          "packageLocation": "./.yarn/virtual/next-virtual-910e31a40c/0/cache/next-npm-9.0.5-3d759eff12.zip/node_modules/next/",
+          "packageLocation": "./.yarn/unplugged/next-virtual-910e31a40c/node_modules/next/",
           "packageDependencies": [
             ["next", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:9.0.5"],
             ["@babel/core", "npm:7.4.5"],
