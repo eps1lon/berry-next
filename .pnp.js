@@ -90,6 +90,7 @@ function $$SETUP_STATE(hydrateRuntimeState) {
       "./.yarn/cache/styled-jsx-npm-3.2.1-6d2007b485.zip/node_modules/styled-jsx/",
       "./.yarn/cache/stylis-rule-sheet-npm-0.0.10-5e45458244.zip/node_modules/stylis-rule-sheet/",
       "./.yarn/cache/terser-webpack-plugin-npm-1.4.1-520f985579.zip/node_modules/terser-webpack-plugin/",
+      "./.yarn/cache/ts-pnp-npm-1.1.2-908b85f2f2.zip/node_modules/ts-pnp/",
       "./.yarn/cache/webpack-dev-middleware-npm-3.7.0-06814228e2.zip/node_modules/webpack-dev-middleware/"
     ],
     "locationLengthData": [
@@ -189,6 +190,7 @@ function $$SETUP_STATE(hydrateRuntimeState) {
           "packageLocation": "./",
           "packageDependencies": [
             ["next", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:9.0.5"],
+            ["pnp-webpack-plugin", "npm:1.5.0"],
             ["react", "npm:16.9.0"],
             ["react-dom", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:16.9.0"]
           ]
@@ -1949,6 +1951,7 @@ function $$SETUP_STATE(hydrateRuntimeState) {
           "packageDependencies": [
             ["berry-next", "workspace:."],
             ["next", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:9.0.5"],
+            ["pnp-webpack-plugin", "npm:1.5.0"],
             ["react", "npm:16.9.0"],
             ["react-dom", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:16.9.0"]
           ]
@@ -5033,6 +5036,15 @@ function $$SETUP_STATE(hydrateRuntimeState) {
           ]
         }]
       ]],
+      ["pnp-webpack-plugin", [
+        ["npm:1.5.0", {
+          "packageLocation": "./.yarn/cache/pnp-webpack-plugin-npm-1.5.0-b73cbddb67.zip/node_modules/pnp-webpack-plugin/",
+          "packageDependencies": [
+            ["pnp-webpack-plugin", "npm:1.5.0"],
+            ["ts-pnp", "virtual:b73cbddb67de30be4d9017fcda27dfe7b38cb82eb90bcfcd3f8739c7c80e33e42ab7b5fe338b3038c2f66b0da535ecd837b463c1b7dda147bfed23317538f430#npm:1.1.2"]
+          ]
+        }]
+      ]],
       ["posix-character-classes", [
         ["npm:0.1.1", {
           "packageLocation": "./.yarn/cache/posix-character-classes-npm-0.1.1-9da76e1830.zip/node_modules/posix-character-classes/",
@@ -6243,6 +6255,15 @@ function $$SETUP_STATE(hydrateRuntimeState) {
           "packageLocation": "./.yarn/cache/trim-right-npm-1.0.1-baa7d857e1.zip/node_modules/trim-right/",
           "packageDependencies": [
             ["trim-right", "npm:1.0.1"]
+          ]
+        }]
+      ]],
+      ["ts-pnp", [
+        ["virtual:b73cbddb67de30be4d9017fcda27dfe7b38cb82eb90bcfcd3f8739c7c80e33e42ab7b5fe338b3038c2f66b0da535ecd837b463c1b7dda147bfed23317538f430#npm:1.1.2", {
+          "packageLocation": "./.yarn/virtual/ts-pnp-virtual-e26bc8d07f/0/cache/ts-pnp-npm-1.1.2-908b85f2f2.zip/node_modules/ts-pnp/",
+          "packageDependencies": [
+            ["ts-pnp", "virtual:b73cbddb67de30be4d9017fcda27dfe7b38cb82eb90bcfcd3f8739c7c80e33e42ab7b5fe338b3038c2f66b0da535ecd837b463c1b7dda147bfed23317538f430#npm:1.1.2"],
+            ["typescript", null]
           ]
         }]
       ]],
