@@ -1,0 +1,7 @@
+{
+  "name": "berry-next",
+  "version": "0.0.1",
+  "description": "react app using next with yarn v2",
+  "main": "index.js",
+  "license": "MIT"
+}
