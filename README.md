@@ -4,5 +4,5 @@ Integrating `next` with `yarn@2.x`
 
 ## Tested
 * [x] `yarn build`
-* [ ] `yarn dev`
+* [x] `yarn dev`
 * [ ] `yarn start`
