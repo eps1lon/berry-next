@@ -2,8 +2,12 @@
   "name": "berry-next",
   "version": "0.0.1",
   "description": "react app using next with yarn v2",
-  "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "next": "^9.0.5",
     "react": "^16.9.0",
