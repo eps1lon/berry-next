@@ -1707,6 +1707,8 @@ __metadata:
   dependenciesMeta:
     next:
       unplugged: true
+    next-server:
+      unplugged: true
   languageName: unknown
   linkType: soft
 

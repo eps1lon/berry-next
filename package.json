@@ -16,6 +16,9 @@
   "dependenciesMeta": {
     "next": {
       "unplugged": true
+    },
+    "next-server": {
+      "unplugged": true
     }
   }
 }
