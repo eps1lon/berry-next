@@ -4133,6 +4133,7 @@ __metadata:
   resolution: "next-server@npm:9.0.5"
   dependencies:
     "@ampproject/toolbox-optimizer": "npm:1.0.1"
+    chalk: "npm:2.4.2"
     compression: "npm:1.7.4"
     content-type: "npm:1.0.4"
     cookie: "npm:0.4.0"

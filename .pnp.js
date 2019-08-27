@@ -4455,6 +4455,7 @@ function $$SETUP_STATE(hydrateRuntimeState) {
           "packageDependencies": [
             ["next-server", "virtual:910e31a40c85a9d4b157bf9d7ea2a750ac35b563011574de3f6e643bf9f48adac359d842bbec90cc6a480e88e6e64edc46ca14f0b68a9c4394ee2312fa87f756#npm:9.0.5"],
             ["@ampproject/toolbox-optimizer", "npm:1.0.1"],
+            ["chalk", "npm:2.4.2"],
             ["compression", "npm:1.7.4"],
             ["content-type", "npm:1.0.4"],
             ["cookie", "npm:0.4.0"],
