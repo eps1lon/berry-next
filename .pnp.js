@@ -196,8 +196,7 @@ function $$SETUP_STATE(hydrateRuntimeState) {
             ["pnp-webpack-plugin", "npm:1.5.0"],
             ["prop-types", "npm:15.7.2"],
             ["react", "npm:16.9.0"],
-            ["react-dom", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:16.9.0"],
-            ["styled-jsx", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:3.2.2"]
+            ["react-dom", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:16.9.0"]
           ]
         }]
       ]],
@@ -1970,8 +1969,7 @@ function $$SETUP_STATE(hydrateRuntimeState) {
             ["pnp-webpack-plugin", "npm:1.5.0"],
             ["prop-types", "npm:15.7.2"],
             ["react", "npm:16.9.0"],
-            ["react-dom", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:16.9.0"],
-            ["styled-jsx", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:3.2.2"]
+            ["react-dom", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:16.9.0"]
           ]
         }]
       ]],
@@ -6169,21 +6167,6 @@ function $$SETUP_STATE(hydrateRuntimeState) {
             ["stylis-rule-sheet", "virtual:84087fe5ef5764433cd67c737beea32214ad9b578a42e2a5db184a31c121011b683137540253e53651fa84ccfe4e7de676164915e0af33d078fc8ce9553f1906#npm:0.0.10"]
           ]
         }],
-        ["virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:3.2.2", {
-          "packageLocation": "./.yarn/virtual/styled-jsx-virtual-f9ca5e461a/0/cache/styled-jsx-npm-3.2.2-6271ec4430.zip/node_modules/styled-jsx/",
-          "packageDependencies": [
-            ["styled-jsx", "virtual:987832680f8d18a8aa044070aac9714a3b43fce57ce77f673983f76018259429c516b81b8cdbaee3b9ee91856818a30558f5bec62d93b091f6305f815428fe14#npm:3.2.2"],
-            ["babel-plugin-syntax-jsx", "npm:6.18.0"],
-            ["babel-types", "npm:6.26.0"],
-            ["convert-source-map", "npm:1.6.0"],
-            ["loader-utils", "npm:1.2.3"],
-            ["react", "npm:16.9.0"],
-            ["source-map", "npm:0.7.3"],
-            ["string-hash", "npm:1.1.3"],
-            ["stylis", "npm:3.5.4"],
-            ["stylis-rule-sheet", "virtual:f9ca5e461a2e6c0e2f4bbba57948244379be98c3f48dcaba51d044ca6a4647f2237cd55630594a40ef1ddd5aa22fd98cb522915214231a83937d11a26b4a2b7f#npm:0.0.10"]
-          ]
-        }],
         ["virtual:ba9897c37457f05dde7a90642b1f2c6837313ac07f1ee66b3eaaf234bc60834d3a9eeffa187d562192c5d1c4f62d4023643b0ad44479328ea30f0234a988ef59#npm:3.2.2", {
           "packageLocation": "./.yarn/virtual/styled-jsx-virtual-5ffa7cb395/0/cache/styled-jsx-npm-3.2.2-6271ec4430.zip/node_modules/styled-jsx/",
           "packageDependencies": [
@@ -6220,13 +6203,6 @@ function $$SETUP_STATE(hydrateRuntimeState) {
           "packageLocation": "./.yarn/virtual/stylis-rule-sheet-virtual-e4f7d092bb/0/cache/stylis-rule-sheet-npm-0.0.10-5e45458244.zip/node_modules/stylis-rule-sheet/",
           "packageDependencies": [
             ["stylis-rule-sheet", "virtual:84087fe5ef5764433cd67c737beea32214ad9b578a42e2a5db184a31c121011b683137540253e53651fa84ccfe4e7de676164915e0af33d078fc8ce9553f1906#npm:0.0.10"],
-            ["stylis", "npm:3.5.4"]
-          ]
-        }],
-        ["virtual:f9ca5e461a2e6c0e2f4bbba57948244379be98c3f48dcaba51d044ca6a4647f2237cd55630594a40ef1ddd5aa22fd98cb522915214231a83937d11a26b4a2b7f#npm:0.0.10", {
-          "packageLocation": "./.yarn/virtual/stylis-rule-sheet-virtual-d7a418c4f3/0/cache/stylis-rule-sheet-npm-0.0.10-5e45458244.zip/node_modules/stylis-rule-sheet/",
-          "packageDependencies": [
-            ["stylis-rule-sheet", "virtual:f9ca5e461a2e6c0e2f4bbba57948244379be98c3f48dcaba51d044ca6a4647f2237cd55630594a40ef1ddd5aa22fd98cb522915214231a83937d11a26b4a2b7f#npm:0.0.10"],
             ["stylis", "npm:3.5.4"]
           ]
         }]

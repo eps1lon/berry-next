@@ -1717,7 +1717,6 @@ __metadata:
     prop-types: "npm:^15.7.2"
     react: "npm:^16.9.0"
     react-dom: "npm:^16.9.0"
-    styled-jsx: "npm:^3.2.2"
   dependenciesMeta:
     next:
       unplugged: true
@@ -5888,7 +5887,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"styled-jsx@npm:3.2.2, styled-jsx@npm:^3.2.2":
+"styled-jsx@npm:3.2.2":
   version: 3.2.2
   resolution: "styled-jsx@npm:3.2.2"
   dependencies:
