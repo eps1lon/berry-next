@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "core-js": "2",
-    "next": "^9.0.5",
+    "next": "canary",
     "next-server": "^9.0.5",
     "pnp-webpack-plugin": "^1.5.0",
     "prop-types": "^15.7.2",
