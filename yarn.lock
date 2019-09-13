@@ -1701,10 +1701,14 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "berry-next@workspace:."
   dependencies:
+    core-js: "npm:2"
     next: "npm:^9.0.5"
+    next-server: "npm:^9.0.5"
     pnp-webpack-plugin: "npm:^1.5.0"
+    prop-types: "npm:^15.7.2"
     react: "npm:^16.9.0"
     react-dom: "npm:^16.9.0"
+    styled-jsx: "npm:^3.2.2"
   dependenciesMeta:
     next:
       unplugged: true
@@ -2244,7 +2248,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^2.4.0, core-js@npm:^2.6.5":
+"core-js@npm:2, core-js@npm:^2.4.0, core-js@npm:^2.6.5":
   version: 2.6.9
   resolution: "core-js@npm:2.6.9"
   checksum: d20fd4d18430314748946cb9817643d0a02b861aee8fefce2cf070c0bc2a64249e3aff8cb51601954b84bc8cd8e8bce098841b92b3653b096968e12ea9006fd8
@@ -4129,7 +4133,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next-server@npm:9.0.5":
+"next-server@npm:9.0.5, next-server@npm:^9.0.5":
   version: 9.0.5
   resolution: "next-server@npm:9.0.5"
   dependencies:
@@ -4842,7 +4846,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prop-types@npm:15.7.2, prop-types@npm:^15.6.2":
+"prop-types@npm:15.7.2, prop-types@npm:^15.6.2, prop-types@npm:^15.7.2":
   version: 15.7.2
   resolution: "prop-types@npm:15.7.2"
   dependencies:
@@ -5760,6 +5764,24 @@ __metadata:
   peerDependencies:
     react: 15.x.x || 16.x.x
   checksum: 49d3826c61aa17e6d3003dba198deea03073293cf6566b3975a2d7b0488bc3291b22c22e4381cc6e7460bb0e8aee240c899ea8679586aa13d43bfae064c3b6db
+  languageName: node
+  linkType: hard
+
+"styled-jsx@npm:^3.2.2":
+  version: 3.2.2
+  resolution: "styled-jsx@npm:3.2.2"
+  dependencies:
+    babel-plugin-syntax-jsx: "npm:6.18.0"
+    babel-types: "npm:6.26.0"
+    convert-source-map: "npm:1.6.0"
+    loader-utils: "npm:1.2.3"
+    source-map: "npm:0.7.3"
+    string-hash: "npm:1.1.3"
+    stylis: "npm:3.5.4"
+    stylis-rule-sheet: "npm:0.0.10"
+  peerDependencies:
+    react: 15.x.x || 16.x.x
+  checksum: 35af1a827fb417bc8901d6b8e81474ef3dbcc75856b9ba135cdb317e8598731332d520aef7faa6dc30c79a61e452e28294b443e4765655ce5195e83b684bbf5d
   languageName: node
   linkType: hard
 

@@ -10,10 +10,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "core-js": "2",
     "next": "^9.0.5",
+    "next-server": "^9.0.5",
     "pnp-webpack-plugin": "^1.5.0",
+    "prop-types": "^15.7.2",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "styled-jsx": "^3.2.2"
   },
   "dependenciesMeta": {
     "next": {
